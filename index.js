@@ -1,7 +1,7 @@
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
-const util = require('util');
+//const util = require('util');
 const generateMarkdown = require('./utils/generateMarkdown');
 
 
@@ -31,7 +31,7 @@ const questions = [
         type: "list",
         name: "license",
         message: "What of license should your project have?",
-        choices: ["Apache 2.0", "MIT", "Boost 1.0", "BSD 3", "Eclipse 1.0", "None"],
+        choices: ["APACHE 2.0", "MIT", "GPL 3.0", "BSD 3", "None"],
     },
     {
         type: "input",
