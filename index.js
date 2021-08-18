@@ -31,7 +31,7 @@ const questions = [
         type: "list",
         name: "license",
         message: "What of license should your project have?",
-        choices: ["Apache 2.0", "MIT", "Boost 1.0", "BSD 3", "Eclipse 1.0"],
+        choices: ["Apache 2.0", "MIT", "Boost 1.0", "BSD 3", "Eclipse 1.0", "None"],
     },
     {
         type: "input",
