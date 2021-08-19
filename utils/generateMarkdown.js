@@ -102,13 +102,13 @@ function generateMarkdown(data) {
 
   ## Table of Contents
 
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [License](#license)
+  * [Installation](#Installation)
+  * [Usage](#Usage)
+  * [License](#License)
   * [Tests](#Tests)
   * [Contributions](#Contributions)
   * [Credits](#Credits)
-  * [Contact](#Contact)
+  * [Contact](#Questions?)
   
   ## Installation 
   Required dependencies to be installed for application functionality: ${data.dependencies}
@@ -134,7 +134,7 @@ function generateMarkdown(data) {
   ## Credits
   ${data.credit}
 
-  ## Questions about this App?
+  ## Questions?
   Contact:
   *GitHub: https://github.com/${data.github}
   *Email: ${data.email}

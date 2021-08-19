@@ -7,13 +7,13 @@
 
   ## Table of Contents
 
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [License](#license)
+  * [Installation](#Installation)
+  * [Usage](#Usage)
+  * [License](#License)
   * [Tests](#Tests)
   * [Contributions](#Contributions)
   * [Credits](#Credits)
-  * [Contact](#Contact)
+  * [Contact](#Questions?)
   
   ## Installation 
   Required dependencies to be installed for application functionality: npm i
@@ -43,7 +43,7 @@
   ## Credits
   Thank you to Trilogy Education Services for the tools to create this App.
 
-  ## Questions about this App?
+  ## Questions?
   Contact:
   *GitHub: https://github.com/daveshouse44
   *Email: daveshouse44@hotmail.com
