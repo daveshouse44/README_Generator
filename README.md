@@ -13,7 +13,7 @@
   * [Tests](#Tests)
   * [Contributions](#Contributions)
   * [Credits](#Credits)
-  * [Contact](#Questions?)
+  * [Questions?](#Questions?)
   
   ## Installation 
   Required dependencies to be installed for application functionality: npm i
